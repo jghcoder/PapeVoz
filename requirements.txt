@@ -1,5 +1,5 @@
 gradio==4.20.1
-speech_recognition==3.11.1
+speech_recognition
 pandas==2.0.3
 plotly==5.17.0
 numpy==1.24.3
