@@ -1,2 +1,7 @@
-!pip install -q SpeechRecognition gradio pandas plotly numpy
-!apt-get -qq install -y portaudio19-dev libportaudio2 flac
+gradio==4.20.1
+speech_recognition==3.10.0
+pandas==2.0.3
+plotly==5.17.0
+numpy==1.24.3
+gtts==2.4.0
+pydub==0.25.1
