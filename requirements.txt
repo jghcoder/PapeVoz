@@ -3,5 +3,5 @@ SpeechRecognition
 pandas
 plotly
 numpy
-gtt
+gtts
 pydub
